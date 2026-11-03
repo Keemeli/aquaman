@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021370584909",
+    "project_id": "aquaman-bdaf7",
+    "storage_bucket": "aquaman-bdaf7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021370584909:android:0dcaa62830b4702eacf104",
+        "android_client_info": {
+          "package_name": "fi.eemeli.aquaman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjvZvtNeTC6-RbrrOO2jzsTIyOf6lARNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
